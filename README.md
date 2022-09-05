@@ -29,4 +29,4 @@ repositorio para compartilhar trabalhos na disciplina de pensamento computaciona
 
 ![Isso é uma imagem](https://catrangers.files.wordpress.com/2013/02/lua-e-artemis.jpg)
 
-@LizianeBugalski
+@LiziBugalski
