@@ -1,5 +1,6 @@
 # pensamentoComputacional-1D
 repositorio para compartilhar trabalhos na disciplina de pensamento computacional 
+<p> Maria Fernanda e Mariane Loyola. (n:20 e 39)
 
 ## -O GATO-
 
@@ -24,6 +25,8 @@ repositorio para compartilhar trabalhos na disciplina de pensamento computaciona
 <p> Toma o seu banho
 <p> Passando a língua
 <p> Pela barriga.
-<p> __Vinicius de Moraes__
+<p> - Vinicius de Moraes
 
 ![Isso é uma imagem](https://catrangers.files.wordpress.com/2013/02/lua-e-artemis.jpg)
+
+@LizianeBugalski
